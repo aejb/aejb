@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **[CalLI](https://github.com/calliapp)**
-- 🌱 I’m currently learning **Python Flask, JS, looking to learn Go, Rust, and C++**
+- 🔭 I’m currently working on **[cs50w](https://github.com/aejb/cs50w)**
+- 🌱 I’m currently learning **Django and JS**
 - 💬 Ask me about **science, photography, and discord**
 - 📫 How to reach me: **[gitlab](https://gitlab.com/aejb), twitter @aejb_, discord ash#0001**
 - 😄 Pronouns: **[they/them (but i dont mind)](http://pronoun.is/they/them)**
