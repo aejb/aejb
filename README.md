@@ -5,3 +5,4 @@
 - 💬 Ask me about **science, photography, and discord**
 - 📫 How to reach me: **[gitlab](https://gitlab.com/aejb), twitter @aejb_, discord ash#0001**, **@aejb:matrix.org**
 - 😄 Pronouns: **[they/them (but i dont mind)](http://pronoun.is/they/them)**
+- ✨ Fun Fact: **I'm a GitHub Campus Expert!**
